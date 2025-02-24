@@ -6,8 +6,8 @@
       "book_name": "Psalms",
       "chapter": 23,
       "verse": 1,
-      "text": "The Lᴏʀᴅ <i>is</i> my shepherd; I shall not want.",
-      "header": "**¶ A Psalm of David.**",
+      "text": "The LORD <i>is</i> my shepherd; I shall not want.",
+      "header": "¶ A Psalm of David.",
       "footer": ""
     },
     {
@@ -46,7 +46,7 @@
       "book_name": "Psalms",
       "chapter": 23,
       "verse": 6,
-      "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lᴏʀᴅ for ever.",
+      "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
       "header": "",
       "footer": ""
     }

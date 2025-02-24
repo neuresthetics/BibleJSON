@@ -5,19 +5,19 @@ The Bible in JSON format.
 This is what it would look like if you were to open up `./JSON/Psalms/3.json`.
 ```json
 {
-    "header": "¶ A Psalm of David, when he fled from Absalom his son.",
-    "footer": "",
-    "verses": [
-        {
-            "book_id": "PSA",
-            "book_name": "Psalms",
-            "chapter": 3,
-            "verse": 1,
-            "text": "LORD, how are they increased that trouble me! many <em>are</em> they that rise up against me.",
-            "info": ""
-        },
-        ...
-    ]
+  "book_name": "Psalms",
+  "chapter": 3,
+  "verses": [
+    {
+      "book_name": "Psalms",
+      "chapter": 3,
+      "verse": 1,
+      "text": "LORD, how are they increased that trouble me! many <i>are</i> they that rise up against me.",
+      "header": "¶ A Psalm of David, when he fled from Absalom his son.",
+      "footer": ""
+    },
+    ...
+  ]
 }
 ```
 ## How it to use:
