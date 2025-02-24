@@ -20,10 +20,11 @@ This is what it would look like if you were to open up `./JSON/Psalms/3.json`.
   ]
 }
 ```
-## How it to use:
 `header` is a string of additional information about the chapter, such as "A Psalm of David" above a Psalm. I don't believe any chapters outside of the Psalms use this but I may be wrong.
 
 `footer` is a string additional information put at the end of a chapter. These are only used in the Pauline Epistles (also Hebrews, which may or may not have been written by Paul).
+
+**NOTE:** `header`s and `footer`s are still a work in progress.
 
 `verses` is an object array. Inside `verses` are object with these:
 
