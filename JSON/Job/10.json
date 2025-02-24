@@ -1,182 +1,182 @@
 {
-  "header": "",
-  "footer": "",
+  "book_name": "Job",
+  "chapter": 10,
   "verses": [
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 1,
       "text": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 2,
       "text": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 3,
-      "text": "<em>Is it</em> good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?",
-      "info": ""
+      "text": "<i>Is it</i> good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 4,
       "text": "Hast thou eyes of flesh? or seest thou as man seeth?",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 5,
-      "text": "<em>Are</em> thy days as the days of man? <em>are</em> thy years as man's days,",
-      "info": ""
+      "text": "<i>Are</i> thy days as the days of man? <i>are</i> thy years as man's days,",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 6,
-      "text": "That thou enquirest after mine iniquity, and searchest after my sin?",
-      "info": ""
+      "text": "That thou inquirest after mine iniquity, and searchest after my sin?",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 7,
-      "text": "Thou knowest that I am not wicked; and <em>there is</em> none that can deliver out of thine hand.",
-      "info": ""
+      "text": "Thou knowest that I am not wicked; and <i>there is</i> none that can deliver out of thine hand.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 8,
       "text": "Thine hands have made me and fashioned me together round about; yet thou dost destroy me.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 9,
       "text": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 10,
       "text": "Hast thou not poured me out as milk, and curdled me like cheese?",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 11,
       "text": "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 12,
       "text": "Thou hast granted me life and favour, and thy visitation hath preserved my spirit.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 13,
-      "text": "And these <em>things</em> hast thou hid in thine heart: I know that this <em>is</em> with thee.",
-      "info": ""
+      "text": "And these <i>things</i> hast thou hid in thine heart: I know that this <i>is</i> with thee.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 14,
       "text": "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 15,
-      "text": "If I be wicked, woe unto me; and <em>if</em> I be righteous, <em>yet</em> will I not lift up my head. <em>I am</em> full of confusion; therefore see thou mine affliction;",
-      "info": ""
+      "text": "If I be wicked, woe unto me; and <i>if</i> I be righteous, <i>yet</i> will I not lift up my head. <i>I am</i> full of confusion; therefore see thou mine affliction;",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 16,
       "text": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 17,
-      "text": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war <em>are</em> against me.",
-      "info": ""
+      "text": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war <i>are</i> against me.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 18,
       "text": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 19,
       "text": "I should have been as though I had not been; I should have been carried from the womb to the grave.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 20,
-      "text": "<em>Are</em> not my days few? cease <em>then, and</em> let me alone, that I may take comfort a little,",
-      "info": ""
+      "text": "<i>Are</i> not my days few? cease <i>then, and</i> let me alone, that I may take comfort a little,",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 21,
-      "text": "Before I go <em>whence</em> I shall not return, <em>even</em> to the land of darkness and the shadow of death;",
-      "info": ""
+      "text": "Before I go <i>whence</i> I shall not return, <i>even</i> to the land of darkness and the shadow of death;",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "JOB",
       "book_name": "Job",
       "chapter": 10,
       "verse": 22,
-      "text": "A land of darkness, as darkness <em>itself; and</em> of the shadow of death, without any order, and <em>where</em> the light <em>is</em> as darkness.",
-      "info": ""
+      "text": "A land of darkness, as darkness <i>itself; and</i> of the shadow of death, without any order, and <i>where</i> the light <i>is</i> as darkness.",
+      "header": "",
+      "footer": ""
     }
   ]
 }

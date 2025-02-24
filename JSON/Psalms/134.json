@@ -1,30 +1,30 @@
 {
-  "header": "¶ A Song of degrees.",
-  "footer": "",
+  "book_name": "Psalms",
+  "chapter": 134,
   "verses": [
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 134,
       "verse": 1,
-      "text": "Behold, bless ye the LORD, all <em>ye</em> servants of the LORD, which by night stand in the house of the LORD.",
-      "info": ""
+      "text": "Behold, bless ye the Lᴏʀᴅ, all <i>ye</i> servants of the Lᴏʀᴅ, which by night stand in the house of the Lᴏʀᴅ.",
+      "header": "**¶ A Song of degrees.**",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 134,
       "verse": 2,
-      "text": "Lift up your hands <em>in</em> the sanctuary, and bless the LORD.",
-      "info": ""
+      "text": "Lift up your hands <i>in</i> the sanctuary, and bless the Lᴏʀᴅ.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 134,
       "verse": 3,
-      "text": "The LORD that made heaven and earth bless thee out of Zion.",
-      "info": ""
+      "text": "The Lᴏʀᴅ that made heaven and earth bless thee out of Zion.",
+      "header": "",
+      "footer": ""
     }
   ]
 }

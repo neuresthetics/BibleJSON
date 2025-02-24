@@ -1,102 +1,102 @@
 {
-  "header": "¶ <em>A Psalm</em> of David.",
-  "footer": "",
+  "book_name": "Psalms",
+  "chapter": 26,
   "verses": [
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 1,
-      "text": "Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; <em>therefore</em> I shall not slide.",
-      "info": ""
+      "text": "Judge me, O Lᴏʀᴅ; for I have walked in mine integrity: I have trusted also in the Lᴏʀᴅ; <i>therefore</i> I shall not slide.",
+      "header": "**¶ *A Psalm* of David.**",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 2,
-      "text": "Examine me, O LORD, and prove me; try my reins and my heart.",
-      "info": ""
+      "text": "Examine me, O Lᴏʀᴅ, and prove me; try my reins and my heart.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 3,
-      "text": "For thy lovingkindness <em>is</em> before mine eyes: and I have walked in thy truth.",
-      "info": ""
+      "text": "For thy lovingkindness <i>is</i> before mine eyes: and I have walked in thy truth.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 4,
       "text": "I have not sat with vain persons, neither will I go in with dissemblers.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 5,
       "text": "I have hated the congregation of evil doers; and will not sit with the wicked.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 6,
-      "text": "I will wash mine hands in innocency: so will I compass thine altar, O LORD:",
-      "info": ""
+      "text": "I will wash mine hands in innocency: so will I compass thine altar, O Lᴏʀᴅ:",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 7,
       "text": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 8,
-      "text": "LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth.",
-      "info": ""
+      "text": "Lᴏʀᴅ, I have loved the habitation of thy house, and the place where thine honour dwelleth.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 9,
       "text": "Gather not my soul with sinners, nor my life with bloody men:",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 10,
-      "text": "In whose hands <em>is</em> mischief, and their right hand is full of bribes.",
-      "info": ""
+      "text": "In whose hands <i>is</i> mischief, and their right hand is full of bribes.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 11,
       "text": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 26,
       "verse": 12,
-      "text": "My foot standeth in an even place: in the congregations will I bless the LORD.",
-      "info": ""
+      "text": "My foot standeth in an even place: in the congregations will I bless the Lᴏʀᴅ.",
+      "header": "",
+      "footer": ""
     }
   ]
 }

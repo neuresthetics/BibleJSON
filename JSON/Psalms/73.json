@@ -1,230 +1,230 @@
 {
-  "header": "¶ A Psalm of Asaph.",
-  "footer": "",
+  "book_name": "Psalms",
+  "chapter": 73,
   "verses": [
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 1,
-      "text": "Truly God <em>is</em> good to Israel, <em>even</em> to such as are of a clean heart.",
-      "info": ""
+      "text": "Truly God <i>is</i> good to Israel, <i>even</i> to such as are of a clean heart.",
+      "header": "**¶ A Psalm of Asaph.**",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 2,
       "text": "But as for me, my feet were almost gone; my steps had well nigh slipped.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 3,
-      "text": "For I was envious at the foolish, <em>when</em> I saw the prosperity of the wicked.",
-      "info": ""
+      "text": "For I was envious at the foolish, <i>when</i> I saw the prosperity of the wicked.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 4,
-      "text": "For <em>there are</em> no bands in their death: but their strength <em>is</em> firm.",
-      "info": ""
+      "text": "For <i>there are</i> no bands in their death: but their strength <i>is</i> firm.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 5,
-      "text": "They <em>are</em> not in trouble <em>as other</em> men; neither are they plagued like <em>other</em> men.",
-      "info": ""
+      "text": "They <i>are</i> not in trouble <i>as other</i> men; neither are they plagued like <i>other</i> men.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 6,
-      "text": "Therefore pride compasseth them about as a chain; violence covereth them <em>as</em> a garment.",
-      "info": ""
+      "text": "Therefore pride compasseth them about as a chain; violence covereth them <i>as</i> a garment.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 7,
       "text": "Their eyes stand out with fatness: they have more than heart could wish.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 8,
-      "text": "They are corrupt, and speak wickedly <em>concerning</em> oppression: they speak loftily.",
-      "info": ""
+      "text": "They are corrupt, and speak wickedly <i>concerning</i> oppression: they speak loftily.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 9,
       "text": "They set their mouth against the heavens, and their tongue walketh through the earth.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 10,
-      "text": "Therefore his people return hither: and waters of a full <em>cup</em> are wrung out to them.",
-      "info": ""
+      "text": "Therefore his people return hither: and waters of a full <i>cup</i> are wrung out to them.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 11,
       "text": "And they say, How doth God know? and is there knowledge in the most High?",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 12,
-      "text": "Behold, these <em>are</em> the ungodly, who prosper in the world; they increase <em>in</em> riches.",
-      "info": ""
+      "text": "Behold, these <i>are</i> the ungodly, who prosper in the world; they increase <i>in</i> riches.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 13,
-      "text": "Verily I have cleansed my heart <em>in</em> vain, and washed my hands in innocency.",
-      "info": ""
+      "text": "Verily I have cleansed my heart <i>in</i> vain, and washed my hands in innocency.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 14,
       "text": "For all the day long have I been plagued, and chastened every morning.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 15,
-      "text": "If I say, I will speak thus; behold, I should offend <em>against</em> the generation of thy children.",
-      "info": ""
+      "text": "If I say, I will speak thus; behold, I should offend <i>against</i> the generation of thy children.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 16,
-      "text": "When I thought to know this, it <em>was</em> too painful for me;",
-      "info": ""
+      "text": "When I thought to know this, it <i>was</i> too painful for me;",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 17,
-      "text": "Until I went into the sanctuary of God; <em>then</em> understood I their end.",
-      "info": ""
+      "text": "Until I went into the sanctuary of God; <i>then</i> understood I their end.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 18,
       "text": "Surely thou didst set them in slippery places: thou castedst them down into destruction.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 19,
-      "text": "How are they <em>brought</em> into desolation, as in a moment! they are utterly consumed with terrors.",
-      "info": ""
+      "text": "How are they <i>brought</i> into desolation, as in a moment! they are utterly consumed with terrors.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 20,
-      "text": "As a dream when <em>one</em> awaketh; <em>so,</em> O Lord, when thou awakest, thou shalt despise their image.",
-      "info": ""
+      "text": "As a dream when <i>one</i> awaketh; <i>so,</i> O Lord, when thou awakest, thou shalt despise their image.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 21,
       "text": "Thus my heart was grieved, and I was pricked in my reins.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 22,
-      "text": "So foolish <em>was</em> I, and ignorant: I was <em>as</em> a beast before thee.",
-      "info": ""
+      "text": "So foolish <i>was</i> I, and ignorant: I was <i>as</i> a beast before thee.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 23,
-      "text": "Nevertheless I <em>am</em> continually with thee: thou hast holden <em>me</em> by my right hand.",
-      "info": ""
+      "text": "Nevertheless I <i>am</i> continually with thee: thou hast holden <i>me</i> by my right hand.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 24,
-      "text": "Thou shalt guide me with thy counsel, and afterward receive me <em>to</em> glory.",
-      "info": ""
+      "text": "Thou shalt guide me with thy counsel, and afterward receive me <i>to</i> glory.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 25,
-      "text": "Whom have I in heaven <em>but thee?</em> and <em>there is</em> none upon earth <em>that</em> I desire beside thee.",
-      "info": ""
+      "text": "Whom have I in heaven <i>but thee?</i> and <i>there is</i> none upon earth <i>that</i> I desire beside thee.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 26,
-      "text": "My flesh and my heart faileth: <em>but</em> God <em>is</em> the strength of my heart, and my portion for ever.",
-      "info": ""
+      "text": "My flesh and my heart faileth: <i>but</i> God <i>is</i> the strength of my heart, and my portion for ever.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 27,
       "text": "For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 73,
       "verse": 28,
-      "text": "But <em>it is</em> good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all thy works.",
-      "info": ""
+      "text": "But <i>it is</i> good for me to draw near to God: I have put my trust in the Lord Gᴏᴅ, that I may declare all thy works.",
+      "header": "",
+      "footer": ""
     }
   ]
 }

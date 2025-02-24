@@ -1,46 +1,46 @@
 {
-  "header": "¶ To the chief Musician, <em>A Psalm</em> of David, to bring to remembrance.",
-  "footer": "",
+  "book_name": "Psalms",
+  "chapter": 70,
   "verses": [
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 70,
       "verse": 1,
-      "text": "<em>Make haste,</em> O God, to deliver me; make haste to help me, O LORD.",
-      "info": ""
+      "text": "<i>Make haste,</i> O God, to deliver me; make haste to help me, O Lᴏʀᴅ.",
+      "header": "**¶ To the chief Musician, *A Psalm* of David, to bring to remembrance.**",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 70,
       "verse": 2,
       "text": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 70,
       "verse": 3,
       "text": "Let them be turned back for a reward of their shame that say, Aha, aha.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 70,
       "verse": 4,
       "text": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 70,
       "verse": 5,
-      "text": "But I <em>am</em> poor and needy: make haste unto me, O God: thou <em>art</em> my help and my deliverer; O LORD, make no tarrying.",
-      "info": ""
+      "text": "But I <i>am</i> poor and needy: make haste unto me, O God: thou <i>art</i> my help and my deliverer; O Lᴏʀᴅ, make no tarrying.",
+      "header": "",
+      "footer": ""
     }
   ]
 }

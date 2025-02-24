@@ -1,102 +1,102 @@
 {
-  "header": "¶ To the chief Musician, to Jeduthun, A Psalm of David.",
-  "footer": "",
+  "book_name": "Psalms",
+  "chapter": 62,
   "verses": [
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 1,
-      "text": "Truly my soul waiteth upon God: from him <em>cometh</em> my salvation.",
-      "info": ""
+      "text": "Truly my soul waiteth upon God: from him <i>cometh</i> my salvation.",
+      "header": "**¶ To the chief Musician, to Jeduthun, A Psalm of David.**",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 2,
-      "text": "He only <em>is</em> my rock and my salvation; <em>he is</em> my defence; I shall not be greatly moved.",
-      "info": ""
+      "text": "He only <i>is</i> my rock and my salvation; <i>he is</i> my defence; I shall not be greatly moved.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 3,
-      "text": "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall <em>shall ye be, and as</em> a tottering fence.",
-      "info": ""
+      "text": "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall <i>shall ye be, and as</i> a tottering fence.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 4,
-      "text": "They only consult to cast <em>him</em> down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.",
-      "info": ""
+      "text": "They only consult to cast <i>him</i> down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 5,
-      "text": "My soul, wait thou only upon God; for my expectation <em>is</em> from him.",
-      "info": ""
+      "text": "My soul, wait thou only upon God; for my expectation <i>is</i> from him.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 6,
-      "text": "He only <em>is</em> my rock and my salvation: <em>he is</em> my defence; I shall not be moved.",
-      "info": ""
+      "text": "He only <i>is</i> my rock and my salvation: <i>he is</i> my defence; I shall not be moved.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 7,
-      "text": "In God <em>is</em> my salvation and my glory: the rock of my strength, <em>and</em> my refuge, <em>is</em> in God.",
-      "info": ""
+      "text": "In God <i>is</i> my salvation and my glory: the rock of my strength, <i>and</i> my refuge, <i>is</i> in God.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 8,
-      "text": "Trust in him at all times; <em>ye</em> people, pour out your heart before him: God <em>is</em> a refuge for us. Selah.",
-      "info": ""
+      "text": "Trust in him at all times; ye people, pour out your heart before him: God <i>is</i> a refuge for us. Selah.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 9,
-      "text": "Surely men of low degree <em>are</em> vanity, <em>and</em> men of high degree <em>are</em> a lie: to be laid in the balance, they <em>are</em> altogether <em>lighter</em> than vanity.",
-      "info": ""
+      "text": "Surely men of low degree <i>are</i> vanity, <i>and</i> men of high degree <i>are</i> a lie: to be laid in the balance, they <i>are</i> altogether <i>lighter</i> than vanity.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 10,
-      "text": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart <em>upon them.</em>",
-      "info": ""
+      "text": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart <i>upon them.</i>",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 11,
-      "text": "God hath spoken once; twice have I heard this; that power <em>belongeth</em> unto God.",
-      "info": ""
+      "text": "God hath spoken once; twice have I heard this; that power <i>belongeth</i> unto God.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 62,
       "verse": 12,
-      "text": "Also unto thee, O Lord, <em>belongeth</em> mercy: for thou renderest to every man according to his work.",
-      "info": ""
+      "text": "Also unto thee, O Lord, <i>belongeth</i> mercy: for thou renderest to every man according to his work.",
+      "header": "",
+      "footer": ""
     }
   ]
 }

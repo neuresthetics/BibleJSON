@@ -1,70 +1,70 @@
 {
-  "header": "",
-  "footer": "",
+  "book_name": "Psalms",
+  "chapter": 114,
   "verses": [
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 114,
       "verse": 1,
       "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 114,
       "verse": 2,
-      "text": "Judah was his sanctuary, <em>and</em> Israel his dominion.",
-      "info": ""
+      "text": "Judah was his sanctuary, <i>and</i> Israel his dominion.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 114,
       "verse": 3,
-      "text": "The sea saw <em>it,</em> and fled: Jordan was driven back.",
-      "info": ""
+      "text": "The sea saw <i>it,</i> and fled: Jordan was driven back.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 114,
       "verse": 4,
-      "text": "The mountains skipped like rams, <em>and</em> the little hills like lambs.",
-      "info": ""
+      "text": "The mountains skipped like rams, <i>and</i> the little hills like lambs.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 114,
       "verse": 5,
-      "text": "What <em>ailed</em> thee, O thou sea, that thou fleddest? thou Jordan, <em>that</em> thou wast driven back?",
-      "info": ""
+      "text": "What <i>ailed</i> thee, O thou sea, that thou fleddest? thou Jordan, <i>that</i> thou wast driven back?",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 114,
       "verse": 6,
-      "text": "Ye mountains, <em>that</em> ye skipped like rams; <em>and</em> ye little hills, like lambs?",
-      "info": ""
+      "text": "Ye mountains, <i>that</i> ye skipped like rams; <i>and</i> ye little hills, like lambs?",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 114,
       "verse": 7,
       "text": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 114,
       "verse": 8,
-      "text": "Which turned the rock <em>into</em> a standing water, the flint into a fountain of waters.",
-      "info": ""
+      "text": "Which turned the rock <i>into</i> a standing water, the flint into a fountain of waters.",
+      "header": "",
+      "footer": ""
     }
   ]
 }

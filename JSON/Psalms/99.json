@@ -1,78 +1,78 @@
 {
-  "header": "",
-  "footer": "",
+  "book_name": "Psalms",
+  "chapter": 99,
   "verses": [
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 99,
       "verse": 1,
-      "text": "The LORD reigneth; let the people tremble: he sitteth <em>between</em> the cherubims; let the earth be moved.",
-      "info": ""
+      "text": "The Lᴏʀᴅ reigneth; let the people tremble: he sitteth <i>between</i> the cherubims; let the earth be moved.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 99,
       "verse": 2,
-      "text": "The LORD <em>is</em> great in Zion; and he <em>is</em> high above all the people.",
-      "info": ""
+      "text": "The Lᴏʀᴅ <i>is</i> great in Zion; and he <i>is</i> high above all the people.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 99,
       "verse": 3,
-      "text": "Let them praise thy great and terrible name; <em>for</em> it <em>is</em> holy.",
-      "info": ""
+      "text": "Let them praise thy great and terrible name; <i>for</i> it <i>is</i> holy.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 99,
       "verse": 4,
       "text": "The king's strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 99,
       "verse": 5,
-      "text": "Exalt ye the LORD our God, and worship at his footstool; <em>for</em> he <em>is</em> holy.",
-      "info": ""
+      "text": "Exalt ye the Lᴏʀᴅ our God, and worship at his footstool; <i>for</i> he <i>is</i> holy.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 99,
       "verse": 6,
-      "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.",
-      "info": ""
+      "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the Lᴏʀᴅ, and he answered them.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 99,
       "verse": 7,
-      "text": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance <em>that</em> he gave them.",
-      "info": ""
+      "text": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance <i>that</i> he gave them.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 99,
       "verse": 8,
-      "text": "Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.",
-      "info": ""
+      "text": "Thou answeredst them, O Lᴏʀᴅ our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 99,
       "verse": 9,
-      "text": "Exalt the LORD our God, and worship at his holy hill; for the LORD our God <em>is</em> holy.",
-      "info": ""
+      "text": "Exalt the Lᴏʀᴅ our God, and worship at his holy hill; for the Lᴏʀᴅ our God <i>is</i> holy.",
+      "header": "",
+      "footer": ""
     }
   ]
 }

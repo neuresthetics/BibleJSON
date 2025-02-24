@@ -1,102 +1,102 @@
 {
-  "header": "",
-  "footer": "",
+  "book_name": "Ecclesiastes",
+  "chapter": 6,
   "verses": [
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 1,
-      "text": "There is an evil which I have seen under the sun, and it <em>is</em> common among men:",
-      "info": ""
+      "text": "There is an evil which I have seen under the sun, and it <i>is</i> common among men:",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 2,
-      "text": "A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this <em>is</em> vanity, and it <em>is</em> an evil disease.",
-      "info": ""
+      "text": "A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this <i>is</i> vanity, and it <i>is</i> an evil disease.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 3,
-      "text": "¶ If a man beget an hundred <em>children,</em> and live many years, so that the days of his years be many, and his soul be not filled with good, and also <em>that</em> he have no burial; I say, <em>that</em> an untimely birth <em>is</em> better than he.",
-      "info": ""
+      "text": "¶ If a man beget an hundred <i>children,</i> and live many years, so that the days of his years be many, and his soul be not filled with good, and also <i>that</i> he have no burial; I say, <i>that</i> an untimely birth <i>is</i> better than he.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 4,
       "text": "For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 5,
-      "text": "Moreover he hath not seen the sun, nor known <em>any thing:</em> this hath more rest than the other.",
-      "info": ""
+      "text": "Moreover he hath not seen the sun, nor known <i>any thing:</i> this hath more rest than the other.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 6,
-      "text": "¶ Yea, though he live a thousand years twice <em>told,</em> yet hath he seen no good: do not all go to one place?",
-      "info": ""
+      "text": "¶ Yea, though he live a thousand years twice <i>told,</i> yet hath he seen no good: do not all go to one place?",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 7,
-      "text": "All the labour of man <em>is</em> for his mouth, and yet the appetite is not filled.",
-      "info": ""
+      "text": "All the labour of man <i>is</i> for his mouth, and yet the appetite is not filled.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 8,
       "text": "For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 9,
-      "text": "¶ Better <em>is</em> the sight of the eyes than the wandering of the desire: this <em>is</em> also vanity and vexation of spirit.",
-      "info": ""
+      "text": "¶ Better <i>is</i> the sight of the eyes than the wandering of the desire: this <i>is</i> also vanity and vexation of spirit.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 10,
-      "text": "That which hath been is named already, and it is known that it <em>is</em> man: neither may he contend with him that is mightier than he.",
-      "info": ""
+      "text": "That which hath been is named already, and it is known that it <i>is</i> man: neither may he contend with him that is mightier than he.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 11,
-      "text": "¶ Seeing there be many things that increase vanity, what <em>is</em> man the better?",
-      "info": ""
+      "text": "¶ Seeing there be many things that increase vanity, what <i>is</i> man the better?",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "ECC",
       "book_name": "Ecclesiastes",
       "chapter": 6,
       "verse": 12,
-      "text": "For who knoweth what <em>is</em> good for man in <em>this</em> life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?",
-      "info": ""
+      "text": "For who knoweth what <i>is</i> good for man in <i>this</i> life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?",
+      "header": "",
+      "footer": ""
     }
   ]
 }

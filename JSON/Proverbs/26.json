@@ -1,230 +1,230 @@
 {
-  "header": "",
-  "footer": "",
+  "book_name": "Proverbs",
+  "chapter": 26,
   "verses": [
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 1,
       "text": "As snow in summer, and as rain in harvest, so honour is not seemly for a fool.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 2,
       "text": "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 3,
       "text": "A whip for the horse, a bridle for the ass, and a rod for the fool's back.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 4,
       "text": "Answer not a fool according to his folly, lest thou also be like unto him.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 5,
       "text": "Answer a fool according to his folly, lest he be wise in his own conceit.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 6,
-      "text": "He that sendeth a message by the hand of a fool cutteth off the feet, <em>and</em> drinketh damage.",
-      "info": ""
+      "text": "He that sendeth a message by the hand of a fool cutteth off the feet, <i>and</i> drinketh damage.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 7,
-      "text": "The legs of the lame are not equal: so <em>is</em> a parable in the mouth of fools.",
-      "info": ""
+      "text": "The legs of the lame are not equal: so <i>is</i> a parable in the mouth of fools.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 8,
-      "text": "As he that bindeth a stone in a sling, so <em>is</em> he that giveth honour to a fool.",
-      "info": ""
+      "text": "As he that bindeth a stone in a sling, so <i>is</i> he that giveth honour to a fool.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 9,
-      "text": "<em>As</em> a thorn goeth up into the hand of a drunkard, so <em>is</em> a parable in the mouth of fools.",
-      "info": ""
+      "text": "<i>As</i> a thorn goeth up into the hand of a drunkard, so <i>is</i> a parable in the mouth of fools.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 10,
-      "text": "The great <em>God</em> that formed all <em>things</em> both rewardeth the fool, and rewardeth transgressors.",
-      "info": ""
+      "text": "The great <i>God</i> that formed all <i>things</i> both rewardeth the fool, and rewardeth transgressors.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 11,
-      "text": "As a dog returneth to his vomit, <em>so</em> a fool returneth to his folly.",
-      "info": ""
+      "text": "As a dog returneth to his vomit, <i>so</i> a fool returneth to his folly.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 12,
-      "text": "Seest thou a man wise in his own conceit? <em>there is</em> more hope of a fool than of him.",
-      "info": ""
+      "text": "Seest thou a man wise in his own conceit? <i>there is</i> more hope of a fool than of him.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 13,
-      "text": "The slothful <em>man</em> saith, <em>There is</em> a lion in the way; a lion <em>is</em> in the streets.",
-      "info": ""
+      "text": "The slothful <i>man</i> saith, <i>There is</i> a lion in the way; a lion <i>is</i> in the streets.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 14,
-      "text": "<em>As</em> the door turneth upon his hinges, so <em>doth</em> the slothful upon his bed.",
-      "info": ""
+      "text": "<i>As</i> the door turneth upon his hinges, so <i>doth</i> the slothful upon his bed.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 15,
-      "text": "The slothful hideth his hand in <em>his</em> bosom; it grieveth him to bring it again to his mouth.",
-      "info": ""
+      "text": "The slothful hideth his hand in <i>his</i> bosom; it grieveth him to bring it again to his mouth.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 16,
-      "text": "The sluggard <em>is</em> wiser in his own conceit than seven men that can render a reason.",
-      "info": ""
+      "text": "The sluggard <i>is</i> wiser in his own conceit than seven men that can render a reason.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 17,
-      "text": "He that passeth by, <em>and</em> meddleth with strife <em>belonging</em> not to him, <em>is like</em> one that taketh a dog by the ears.",
-      "info": ""
+      "text": "He that passeth by, <i>and</i> meddleth with strife <i>belonging</i> not to him, <i>is like</i> one that taketh a dog by the ears.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 18,
-      "text": "As a mad <em>man</em> who casteth firebrands, arrows, and death,",
-      "info": ""
+      "text": "As a mad <i>man</i> who casteth firebrands, arrows, and death,",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 19,
-      "text": "So <em>is</em> the man <em>that</em> deceiveth his neighbour, and saith, Am not I in sport?",
-      "info": ""
+      "text": "So <i>is</i> the man <i>that</i> deceiveth his neighbour, and saith, Am not I in sport?",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 20,
-      "text": "Where no wood is, <em>there</em> the fire goeth out: so where <em>there is</em> no talebearer, the strife ceaseth.",
-      "info": ""
+      "text": "Where no wood is, <i>there</i> the fire goeth out: so where <i>there is</i> no talebearer, the strife ceaseth.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 21,
-      "text": "<em>As</em> coals <em>are</em> to burning coals, and wood to fire; so <em>is</em> a contentious man to kindle strife.",
-      "info": ""
+      "text": "<i>As</i> coals <i>are</i> to burning coals, and wood to fire; so <i>is</i> a contentious man to kindle strife.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 22,
-      "text": "The words of a talebearer <em>are</em> as wounds, and they go down into the innermost parts of the belly.",
-      "info": ""
+      "text": "The words of a talebearer <i>are</i> as wounds, and they go down into the innermost parts of the belly.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 23,
-      "text": "Burning lips and a wicked heart <em>are like</em> a potsherd covered with silver dross.",
-      "info": ""
+      "text": "Burning lips and a wicked heart <i>are like</i> a potsherd covered with silver dross.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 24,
       "text": "He that hateth dissembleth with his lips, and layeth up deceit within him;",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 25,
-      "text": "When he speaketh fair, believe him not: for <em>there are</em> seven abominations in his heart.",
-      "info": ""
+      "text": "When he speaketh fair, believe him not: for <i>there are</i> seven abominations in his heart.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 26,
-      "text": "<em>Whose</em> hatred is covered by deceit, his wickedness shall be shewed before the <em>whole</em> congregation.",
-      "info": ""
+      "text": "<i>Whose</i> hatred is covered by deceit, his wickedness shall be shewed before the <i>whole</i> congregation.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 27,
       "text": "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.",
-      "info": ""
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PRO",
       "book_name": "Proverbs",
       "chapter": 26,
       "verse": 28,
-      "text": "A lying tongue hateth <em>those that are</em> afflicted by it; and a flattering mouth worketh ruin.",
-      "info": ""
+      "text": "A lying tongue hateth <i>those that are</i> afflicted by it; and a flattering mouth worketh ruin.",
+      "header": "",
+      "footer": ""
     }
   ]
 }

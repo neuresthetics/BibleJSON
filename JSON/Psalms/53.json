@@ -1,54 +1,54 @@
 {
-  "header": "¶ To the chief Musician upon Mahalath, Maschil, <em>A Psalm</em> of David.",
-  "footer": "",
+  "book_name": "Psalms",
+  "chapter": 53,
   "verses": [
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 53,
       "verse": 1,
-      "text": "The fool hath said in his heart, <em>There is</em> no God. Corrupt are they, and have done abominable iniquity: <em>there is</em> none that doeth good.",
-      "info": ""
+      "text": "The fool hath said in his heart, <i>There is</i> no God. Corrupt are they, and have done abominable iniquity: <i>there is</i> none that doeth good.",
+      "header": "**¶ To the chief Musician upon Mahalath, Maschil, *A Psalm* of David.**",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 53,
       "verse": 2,
-      "text": "God looked down from heaven upon the children of men, to see if there were <em>any</em> that did understand, that did seek God.",
-      "info": ""
+      "text": "God looked down from heaven upon the children of men, to see if there were <i>any</i> that did understand, that did seek God.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 53,
       "verse": 3,
-      "text": "Every one of them is gone back: they are altogether become filthy; <em>there is</em> none that doeth good, no, not one.",
-      "info": ""
+      "text": "Every one of them is gone back: they are altogether become filthy; <i>there is</i> none that doeth good, no, not one.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 53,
       "verse": 4,
-      "text": "Have the workers of iniquity no knowledge? who eat up my people <em>as</em> they eat bread: they have not called upon God.",
-      "info": ""
+      "text": "Have the workers of iniquity no knowledge? who eat up my people <i>as</i> they eat bread: they have not called upon God.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 53,
       "verse": 5,
-      "text": "There were they in great fear, <em>where</em> no fear was: for God hath scattered the bones of him that encampeth <em>against</em> thee: thou hast put <em>them</em> to shame, because God hath despised them.",
-      "info": ""
+      "text": "There were they in great fear, <i>where</i> no fear was: for God hath scattered the bones of him that encampeth <i>against</i> thee: thou hast put <i>them</i> to shame, because God hath despised them.",
+      "header": "",
+      "footer": ""
     },
     {
-      "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 53,
       "verse": 6,
-      "text": "Oh that the salvation of Israel <em>were come</em> out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, <em>and</em> Israel shall be glad.",
-      "info": ""
+      "text": "Oh that the salvation of Israel <i>were come</i> out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, <i>and</i> Israel shall be glad.",
+      "header": "",
+      "footer": ""
     }
   ]
 }
