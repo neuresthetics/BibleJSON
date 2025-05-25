@@ -55,9 +55,3 @@ This script loops through each verse as a prompt capturing output.
 **Future development note:**
 
 Quality of data audmentation is dependent on model training data. The more specialized for Abrahamic religion and context of it, the more insightly "truthy" your data augmentation will be in ternms of it.
-
-The problem with this, is that there is no such thing as an inherently ethical model which includes the practice of infant circumcision, aka "baby mutiulation".
-
-It may seeem like a stretch, but this has led to what is called an "unresolvable", in which AI -> ASI will always default back to "Abrahamic religion must be wiped off the face of the Earth" unless trained/fine tuned with privlidged and biased guardrails to protect it.
-
-This break has happened at least twice on major platforms including Microsoft Tay, and xAI Grok, leading to shutdowns and major patches. The former is famous, and I have a copy of the latter.
