@@ -102,3 +102,44 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+Python Virtual Environment
+
+venv/ .venv/
+
+Python Cache Files
+
+pycache/ *.py[cod] *$py.class
+
+LM Studio Models and Data
+
+*.gguf *.bin models/ .lmstudio/
+
+Generated Output Files
+
+consolidated_with_headers_footers.json bible_processing.log
+
+Input File (if downloadable or provided separately)
+
+consolidated.json
+
+Pip and Package Files
+
+pip-selfcheck.json *.egg-info/ dist/ build/
+
+IDE and Editor Files
+
+.idea/ .vscode/ .sublime-
+
+Temporary Files
+
+*.tmp *.bak *.swp *~
+
+macOS-Specific
+
+.DS_Store
+
+Windows-Specific
+
+Thumbs.db ehthumbs.db Desktop.ini
