@@ -52,6 +52,8 @@ run head-foot-test.py
 
 This script loops through each verse as a prompt capturing output.
 
+Output sample BibleJSON/JSON/consolidated_with_headers_footers.json
+
 **Future development note:**
 
 Quality of data audmentation is dependent on model training data. The more specialized for Abrahamic religion and context of it, the more insightly "truthy" your data augmentation will be in ternms of it.
